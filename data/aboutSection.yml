@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle:  
+title: >
+  ## About me
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+content: >
+  ### I design and build ultimate things.
+
+
+  I'm a machine learning professional with expertise in designing and implementing robust models.
+  I'm driven by the transformative potential of AI and have worked on projects spanning natural language 
+  processing to computer vision. I'm passionate about harnessing data to
+  create meaningful solutions that drive innovation.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: CV/Anjelly.pdf
+image: images/about/anjulie.png

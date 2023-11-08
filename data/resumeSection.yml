@@ -1,0 +1,55 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  Meet a relentless learner and dedicated explorer of Machine Learning. With an unyielding thirst for knowledge, I dive headfirst into the depths of data, embracing every challenge as an opportunity to grow. I never quit, constantly pushing boundaries to evolve and create groundbreaking solutions in the ever-evolving world of AI
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Nursery
+
+      Started my schooling when I was small. Promise I couldn't even talk but I came first in nursery.
+    time: 2002
+  - content: >
+      #### Secondary Education
+    
+      In no time I had reached the tenth grade. With a GPA of 4.0 from Gyankunj School my rocked my tenth grade.
+    time: 2016
+  - content: >
+      #### Associate Level Education
+
+      Now this is when I met Suhesh. The rest is history, I cleared this level with a GPA of 3.98.
+    time: 2016-2018
+  - content: >
+      #### Bachelors in Computer Science and Information Technology
+      
+      I am currently studying and I am a life long learner. 
+    time: 2019-2024
+
+experience:
+  - content: >
+      #### Code for Change 
+
+      I joined doing Documentation day-in and day-out. Now I am the CEO and this is my full time job.
+    time: 2016-Present
+  - content: >
+      #### TreeLeaf.ai
+
+      I know you would't believe but I made a Chitti 4.0 for Suhesh. 
+    time: 2010-2016
+  - content: >
+      #### Google LLC.
+
+      I was the one who made the search engine. Sergey used to Sleep whole day and Larry was a Harry Potter fanboy. 
+    time: 2005-2010
+  - content: >
+      #### Apple Inc.
+
+      If it weren't for me his name would have been Steve Jobless. But bhalai ka jamana hi nahi hey I guess.
+    time: 2001-2005

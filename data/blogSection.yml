@@ -1,0 +1,8 @@
+---
+enable: true
+topTitle: Blog
+title: >
+  ## Recent Article
+
+  When I understand something I like to make a blog about it. It helps me understand better.
+buttonTarget: blog

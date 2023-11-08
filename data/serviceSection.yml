@@ -1,0 +1,38 @@
+---
+enable: true
+topTitle: Hands-on Expertise
+title: >
+  ## Creative Services
+
+  From web development to networking, I've now set my sights on Machine Learning, where I'm eager to unravel the potential of data-driven solutions.
+service:
+  - content: >
+      #### UI/UX Design 
+
+      I kickstarted my career journey as a UI/UX designer, where I crafted user-centered digital experiences. Yeah Canva, Figma, anything you can think of.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Web Development 
+
+      I embarked on my career journey in web development, where I translated creative designs into functional and user-friendly websites. Whether it's HTML, CSS, or JS, PHP i excelled.
+    image: images/service/web.svg
+  - content: >
+      #### Networking
+
+      After my journey in web development, I transitioned to networking, combining technical skills with IT infrastructure expertise to ensure seamless connectivity.
+    image: images/service/creative.svg
+  - content: >
+      #### Machine Learning
+
+      Now, I'm diving into Machine Learning, leveraging my previous experiences to explore the exciting world of data-driven AI solutions.
+    image: images/service/branding.svg
+  - content: >
+      #### SEO Expert
+
+      Additionally, I specialize in SEO. Now, I'm venturing into Machine Learning, merging my expertise for innovative solutions.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Digital Marketing Genius
+
+      I also have expertise in digital marketing. Now, I'm exploring the world of Machine Learning, combining my diverse skills for innovative solutions.
+    image: images/service/web.svg

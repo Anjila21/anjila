@@ -1,0 +1,19 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What People Say About Me?
+
+testimonial:
+  - name: Suhesh Kasti
+    comment: I hate Anjila. Ek number chuchi maya le usko lagi bhanerw banaideu herda ni herdaina ignore garxa ajha. Totalluy not satisfied. -10stars to Anjila.
+    time: September 20, 2023
+    star: 0
+  - name: Sajan Luitel
+    comment: Anjila ek number chuchi xe Suhesh le mehenat le banako herena tara maile banako haina kyare tei bhara 4ta chai dinxu
+    time: September 21, 2023
+    star: 4
+  - name: Shirish Shrestha
+    comment: Malai tw yesbarema kei thaxaina ... 5star hotel mannparxa tara malai 
+    time: September 22, 2023
+    star: 5

@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why hire me for your next project?
+
+  My goal is to build a strong supportive professional network among everyonei and improve their performance.
+
+image: images/skill/skill.png
+
+skill:
+  - title: Python
+    percent: 69
+  - title: Numpy
+    percent: 87
+  - title: Pandas
+    percent: 83
