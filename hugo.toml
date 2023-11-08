@@ -60,7 +60,7 @@ contactLink = "contact"
 copyright = "All right reserved copyright © Anjila"
 footerLogo = "images/contact/logo.png"
 # We're using formspree.io for form handling, paste your formspree url below
-fabformURL  = "https://fabform.io/f/JpTXRUa"
+fabformURL  = "https://formspree.io/f/mqkvjnpr"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/logo.png"
 
