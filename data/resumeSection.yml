@@ -12,26 +12,21 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Nursery
+      #### Bachelor of Science in Computer Science and Information Technology (BSc. CSIT) 
 
-      Started my schooling when I was small. Promise I couldn't even talk but I came first in nursery.
-    time: 2002
+      A seventh-semester student at Padma Kanya Multiple Campus, Bagbazar.
+    time: 2019-Currently
   - content: >
-      #### Secondary Education
+      #### High Level Education
     
-      In no time I had reached the tenth grade. With a GPA of 4.0 from Gyankunj School my rocked my tenth grade.
-    time: 2016
+      Graduated from Gyankunj H.S.S., Ravibhawan, with a 3.36 CGPA.
+    time: 2018-2019
   - content: >
-      #### Associate Level Education
+      #### School Level Education
 
-      Now this is when I met Suhesh. The rest is history, I cleared this level with a GPA of 3.98.
-    time: 2016-2018
-  - content: >
-      #### Bachelors in Computer Science and Information Technology
-      
-      I am currently studying and I am a life long learner. 
-    time: 2019-2024
-
+       Graduated from Gyankunj H.S.S., Ravibhawan, with a 3.70 GPA.
+    time: Graduated 2018
+  
 experience:
   - content: >
       #### Code for Change 
