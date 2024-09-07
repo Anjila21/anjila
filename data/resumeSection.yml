@@ -4,7 +4,7 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Meet a relentless learner and dedicated explorer of Machine Learning. With an unyielding thirst for knowledge, I dive headfirst into the depths of data, embracing every challenge as an opportunity to grow. I never quit, constantly pushing boundaries to evolve and create groundbreaking solutions in the ever-evolving world of AI
+  Meet a detail-driven and dedicated explorer of Quality Assurance. With an unyielding focus on excellence, I dive into every project, embracing challenges as opportunities to improve product quality. I never settle for less, constantly pushing boundaries to ensure flawless functionality and optimal user experiences in the ever-evolving tech landscape.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -14,8 +14,8 @@ education:
   - content: >
       #### Bachelor of Science in Computer Science and Information Technology (BSc. CSIT) 
 
-      A seventh-semester student at Padma Kanya Multiple Campus, Bagbazar.
-    time: 2019-Currently
+      A CSIT Graduate from Padma Kanya Multiple Campus, Bagbazar.
+    time: 2019-2024
 
   - content: >
       #### Intermediate Level Education
@@ -31,9 +31,21 @@ education:
 
 experience:
   - content: >
+      #### Quality Assurance Associate, Qniverse
+      
+      Assisted in the execution of test cases, reported bugs, and collaborated with developers to ensure quality in various web and mobile applications.
+     
+    time: 1st March- ongoing...
+  - content: >
+      #### Quality Assurance Intern, Qniverse
+      
+      Assisted in the execution of test cases, reported bugs, and collaborated with developers to ensure quality in various web and mobile applications.
+     
+    time: 1st Dec- 30th Feb ,2024
+  - content: >
       #### Computer Vision Intern,TreeLeaf.ai
       
-
+      Dive headfirst into the depths of data, embracing every challenge as an opportunity to grow.
      
     time: 1st Sept- 30th Nov,2023
   - content: >

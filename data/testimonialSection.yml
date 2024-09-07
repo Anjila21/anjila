@@ -1,19 +1,56 @@
 ---
 enable: true
-topTitle: Testimonials
+topTitle: Technologies
 title: >
-  ## What People Say About Me?
+  ## What technologies do I excel at?
 
 testimonial:
-  - name: ABC
-    comment: ---
-    time: September 20, 2023
-    star: 4
-  - name: XYZ
-    comment: ---
-    time: September 21, 2023
-    star: 4
-  - name: PQR
-    comment: --
-    time: September 22, 2023
+  - name: Cypress
+    comment: Cypress is an automated testing framework that simplifies end-to-end testing for web applications with a powerful, easy-to-use API.
+    time: Udemy, Self study
     star: 5
+
+  - name: Selenium
+    comment: Selenium is a versatile tool for automating web browsers, enabling comprehensive testing across different browsers and platforms.
+    time: Coursera, Online resources
+    star: 3
+
+  - name: JIRA
+    comment: JIRA is a robust project management tool that helps track bugs and manage test cases, improving team collaboration and workflow.
+    time: Atlassian University, Work experience
+    star: 4
+
+  - name: Postman
+    comment: Postman is an API testing tool that streamlines the process of designing, testing, and managing APIs with its intuitive interface.
+    time: Self study, YouTube tutorials
+    star: 3
+
+  - name: Jenkins
+    comment: Jenkins is a popular continuous integration tool that automates the build and testing process, enhancing software development workflows.
+    time: Online courses, Work experience
+    star: 2
+
+  - name: TestRail
+    comment: TestRail is a test case management tool that organizes and tracks testing activities, providing valuable insights into the quality of software.
+    time: Self study, Professional use
+    star: 3
+
+  - name: Appium
+    comment: Appium is an open-source tool for automating mobile applications, supporting both Android and iOS platforms for comprehensive mobile testing.
+    time: Udemy, Self study
+    star: 3
+
+  - name: Git
+    comment: Git is a version control system that tracks changes in code and collaborates efficiently with team members, essential for maintaining code quality.
+    time: GitHub Learning Lab, Work experience
+    star: 4
+
+  - name: LoadRunner
+    comment: LoadRunner is a performance testing tool that simulates virtual users to assess application performance under various conditions.
+    time: Online courses, Work experience
+    star: 2
+
+  - name: SOAP UI
+    comment: SOAP UI is a tool for testing SOAP and REST web services, providing comprehensive capabilities for API testing and analysis.
+    time: Self study, Tutorials
+    star: 2

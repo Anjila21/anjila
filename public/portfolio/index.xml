@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Anjila Tripathi</title>
+    <link>http://localhost:1313/portfolio/</link>
+    <description>Recent content in Portfolios on Anjila Tripathi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Aug 2024 18:07:16 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event App QA Testing</title>
+      <link>http://localhost:1313/portfolio/event-app-case-study/</link>
+      <pubDate>Mon, 12 Aug 2024 18:07:16 +0600</pubDate>
+      <guid>http://localhost:1313/portfolio/event-app-case-study/</guid>
+      <description>&lt;p&gt;A comprehensive QA evaluation of an event management app focused on delivering a flawless user experience. Key aspects of the testing process included:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Manual Testing:&lt;/strong&gt; Conducted thorough testing of user interfaces and features to identify and report bugs and inconsistencies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated Testing:&lt;/strong&gt; Developed and executed automated test scripts using Selenium to streamline testing and enhance coverage.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Performance Testing:&lt;/strong&gt; Utilized LoadRunner to simulate peak usage scenarios, optimizing the app’s performance under high traffic conditions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security Testing:&lt;/strong&gt; Performed security assessments to identify and address potential vulnerabilities, ensuring the app&amp;rsquo;s security and reliability.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The project resulted in a high-quality event management app with improved functionality, performance, and security, providing users with a seamless experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Case Study Mobile Application QA Testing</title>
+      <link>http://localhost:1313/portfolio/case-study-one/</link>
+      <pubDate>Sat, 13 Jul 2024 12:49:27 +0600</pubDate>
+      <guid>http://localhost:1313/portfolio/case-study-one/</guid>
+      <description>&lt;p&gt;A comprehensive QA assessment of a web application aimed at ensuring high performance, reliability, and user satisfaction. The project involved meticulous testing processes, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Manual Testing:&lt;/strong&gt; Thoroughly tested user interfaces and functionality to identify and report bugs.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated Testing:&lt;/strong&gt; Developed and executed automated test scripts using Selenium to streamline repetitive testing tasks.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Performance Testing:&lt;/strong&gt; Utilized LoadRunner to assess the application&amp;rsquo;s performance under various load conditions, optimizing for better response times and reliability.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Cross-Browser Testing:&lt;/strong&gt; Ensured compatibility across multiple browsers and devices to provide a consistent user experience.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The project resulted in a robust, high-quality web application with enhanced performance and user satisfaction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recipe App QA Testing</title>
+      <link>http://localhost:1313/portfolio/recipe-app-ux-study/</link>
+      <pubDate>Sun, 12 May 2024 18:19:35 +0600</pubDate>
+      <guid>http://localhost:1313/portfolio/recipe-app-ux-study/</guid>
+      <description>&lt;p&gt;A thorough QA assessment of a recipe app designed to ensure optimal user experience. The testing process involved:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Manual Testing:&lt;/strong&gt; Performed detailed testing of app features and functionality to identify and address bugs and inconsistencies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated Testing:&lt;/strong&gt; Created and ran automated test scripts using tools like Selenium to streamline testing and enhance coverage.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usability Testing:&lt;/strong&gt; Evaluated the app&amp;rsquo;s user interface and experience to identify areas for improvement and ensure intuitive navigation.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Performance Testing:&lt;/strong&gt; Assessed the app&amp;rsquo;s responsiveness and stability under various conditions to optimize performance.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security Testing:&lt;/strong&gt; Conducted security assessments to safeguard user data and ensure the app&amp;rsquo;s security.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The project resulted in a refined recipe app with enhanced functionality, performance, and user satisfaction, providing a seamless and enjoyable cooking experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>QA Testing for Agriculture App</title>
+      <link>http://localhost:1313/portfolio/ux-case-study-for-agriculture-app/</link>
+      <pubDate>Tue, 12 Mar 2024 12:13:40 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/ux-case-study-for-agriculture-app/</guid>
+      <description>&lt;p&gt;A comprehensive QA evaluation of an agriculture app designed to ensure it effectively serves its target users. The testing process included:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Manual Testing:&lt;/strong&gt; Thoroughly tested the app’s functionality and user interface to identify and address bugs and inconsistencies.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Automated Testing:&lt;/strong&gt; Developed and executed automated test scripts to cover repetitive testing scenarios and improve efficiency.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Usability Testing:&lt;/strong&gt; Assessed the app’s user experience to ensure it was intuitive and met the needs of farmers and agricultural professionals.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Performance Testing:&lt;/strong&gt; Tested the app’s performance under various load conditions to ensure it could handle high traffic periods effectively.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Security Testing:&lt;/strong&gt; Performed security assessments to protect user data and ensure the app’s integrity.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The project resulted in a high-quality agriculture app with enhanced functionality, usability, and performance, providing users with a reliable and efficient tool for their agricultural needs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

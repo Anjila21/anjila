@@ -4,35 +4,41 @@ topTitle: Hands-on Expertise
 title: >
   ## Creative Services
 
-  From web development to networking, I've now set my sights on Machine Learning, where I'm eager to unravel the potential of data-driven solutions.
+  From manual testing to automation and performance testing, I've now set my sights on ensuring flawless product quality, where I'm driven to enhance user experiences through meticulous testing and quality assurance strategies.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Manual Testing
 
-      I kickstarted my career journey as a UI/UX designer, where I crafted user-centered digital experiences. Yeah Canva, Figma, anything you can think of.
+      I kickstarted my career journey in manual testing, meticulously identifying and reporting bugs to ensure a flawless user experience. From creating test cases to thorough regression testing, I'm on it.
     image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development 
 
-      I embarked on my career journey in web development, where I translated creative designs into functional and user-friendly websites. Whether it's HTML, CSS, or JS, PHP i excelled.
+  - content: >
+      #### Automation Testing
+
+      I transitioned into automation testing, where I developed scripts to automate repetitive tasks and boost efficiency. Be it Selenium, Cypress, or any testing framework, I excelled.
     image: images/service/web.svg
-  - content: >
-      #### Networking
 
-      After my journey in web development, I transitioned to networking, combining technical skills with IT infrastructure expertise to ensure seamless connectivity.
+  - content: >
+      #### Test Planning & Strategy
+
+      After my journey in automation, I ventured into test planning and strategy, combining technical and analytical skills to ensure comprehensive test coverage and seamless execution.
     image: images/service/creative.svg
-  - content: >
-      #### Machine Learning
 
-      Now, I'm diving into Machine Learning, leveraging my previous experiences to explore the exciting world of data-driven AI solutions.
+  - content: >
+      #### API Testing
+
+      Now, I'm diving into API testing, leveraging tools like Postman and REST Assured to ensure robust backend functionality and seamless integrations.
     image: images/service/branding.svg
-  - content: >
-      #### SEO Expert
 
-      Additionally, I specialize in SEO. Now, I'm venturing into Machine Learning, merging my expertise for innovative solutions.
+  - content: >
+      #### Performance Testing
+
+      Additionally, I specialize in performance testing. By analyzing system performance under load and stress, I help optimize response times and ensure reliability.
     image: images/service/ui-ux.svg
-  - content: >
-      #### Digital Marketing Genius
 
-      I also have expertise in digital marketing. Now, I'm exploring the world of Machine Learning, combining my diverse skills for innovative solutions.
+  - content: >
+      #### Quality Metrics & Reporting
+
+      I also have expertise in setting quality metrics and reporting. Now, I'm exploring advanced tools and methodologies to ensure continuous improvement in the QA process.
     image: images/service/web.svg
+

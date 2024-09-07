@@ -2,11 +2,12 @@
 enable: true
 topTitle: Hello, I am Anjila Tripathi 
 content: >
-  # Machine Learning Intern
+  # Quality Assurance Professional 
 
-   I'm on a thrilling journey through the world of Machine Learning, where I explore the infinite possibilities of data and algorithms.
+   I'm catching bugs and perfecting products with a sharp eye and a dash of flair! 
+  
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/anjiimg.png
 videoThumb: images/hero/video-thumb.jpg
-videoURL: https://www.youtube.com/watch?v=lyfEg--xmkI
+videoURL: images/about/intro.mp4 

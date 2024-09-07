@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Codefest, Hackathon on Anjila Tripathi</title>
+    <link>http://localhost:1313/tags/codefest-hackathon/</link>
+    <description>Recent content in Codefest, Hackathon on Anjila Tripathi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2023 12:49:27 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/codefest-hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decrypting Hackathons</title>
+      <link>http://localhost:1313/blog/hackathon/</link>
+      <pubDate>Tue, 01 Aug 2023 12:49:27 +0600</pubDate>
+      <guid>http://localhost:1313/blog/hackathon/</guid>
+      <description>&lt;h3 id=&#34;what-actually-is-this-hackathon-thing&#34;&gt;What actually is this HACKATHON thing?&lt;/h3&gt;&#xA;&lt;p&gt;Hackathons, also known as &amp;lsquo;Codefests,&amp;rsquo; are becoming increasingly popular worldwide, but in Nepal, they&amp;rsquo;re a relatively new concept. Contrary to the misconception that hackathons involve hacking into software or security systems, they&amp;rsquo;re creative events where programmers, developers, and innovative minds collaborate to solve specific problems within a set timeframe.&lt;/p&gt;&#xA;&lt;p&gt;Hackathons, derived from &amp;lsquo;hacker&amp;rsquo; (clever programmer) and &amp;lsquo;marathon&amp;rsquo; (endurance), were introduced by the open-source community. These events challenge participants to work continuously on a single project for either 24 or 48 hours, aiming to develop a software prototype that addresses a predefined issue.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CFC Codefest 2023</title>
+      <link>http://localhost:1313/blog/cfccodefest2023/</link>
+      <pubDate>Thu, 13 Jul 2023 12:49:27 +0600</pubDate>
+      <guid>http://localhost:1313/blog/cfccodefest2023/</guid>
+      <description>&lt;p&gt;Codefest 2022, organized by Code for Change, is the first and the biggest&#xA;Hackathon in Nepal, which intends to build a technological solution for any of the&#xA;selected 7 SDGs viz. SDG 3,4,5,9,11,13, and 16, by the students pursuing&#xA;bachelors in technology in Nepal.&#xA;It is a dynamic event in which students who are highly interested in IT can learn&#xA;new concepts, discover new ideas, and garner knowledge in the domain of&#xA;technology which will help them boost their interest and confidence in&#xA;technology and help them shape their future in this exciting field.&#xA;The event reached the students of all 7 provinces and provided them with an&#xA;opportunity and platform to pitch their idea in relation to solving any of the&#xA;proposed SDGs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
